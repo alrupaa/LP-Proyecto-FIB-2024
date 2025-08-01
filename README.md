@@ -17,7 +17,7 @@ El lenguaje implementado replica gran parte de las construcciones típicas de **
 - Expresiones aritméticas y booleanas
 - Condicionales (`if`, `cond`)
 - Recursión
-- Evaluación perezosa en algunos casos
+- Bucles
 - Variables, entornos y clausuras
 
 ## 🎯 Objetivo del proyecto
